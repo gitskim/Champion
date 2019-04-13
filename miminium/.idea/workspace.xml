@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="623c8b06-ed2e-4202-a36a-0ff8ec3b9061" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/article-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/credits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard-v2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileupload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgotpass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formelement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handsontable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lockscreen-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail-box.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail-box.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/morris.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/panels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productgrid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sliders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tablestatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texteditor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="1249" column="39" selection-start-line="1249" selection-start-column="31" selection-end-line="1249" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1228">
+              <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail-box.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="180" column="67" selection-start-line="180" selection-start-column="67" selection-end-line="180" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topnav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="484" column="18" lean-forward="true" selection-start-line="349" selection-start-column="12" selection-end-line="484" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asset/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97365">
+              <caret line="6491" column="16" selection-start-line="6491" selection-start-column="16" selection-end-line="6491" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>panel-body</find>
+      <find>visit</find>
+      <find>agen</find>
+      <find>Active</find>
+      <find>List Time</find>
+      <find>nav nav-li</find>
+      <find>people</find>
+      <find>pages</find>
+      <find>start:left</find>
+      <find>compose</find>
+      <find>cal</find>
+      <find>calendar</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asset/css/style.css" />
+        <option value="$PROJECT_DIR$/weather.html" />
+        <option value="$PROJECT_DIR$/profile-v1.html" />
+        <option value="$PROJECT_DIR$/mail-box.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/calendar.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="miminium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miminium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miminium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miminium" type="462c0819:PsiDirectoryNode" />
+              <item name="asset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miminium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miminium" type="462c0819:PsiDirectoryNode" />
+              <item name="asset" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623c8b06-ed2e-4202-a36a-0ff8ec3b9061" name="Default Changelist" comment="" />
+      <created>1555107411095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555107411095</updated>
+      <workItem from="1555107412980" duration="2532000" />
+      <workItem from="1555125123439" duration="1463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4090000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/asset/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97365">
+          <caret line="6491" column="16" selection-start-line="6491" selection-start-column="16" selection-end-line="6491" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topnav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="484" column="18" lean-forward="true" selection-start-line="349" selection-start-column="12" selection-end-line="484" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile-v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1191" column="23" lean-forward="true" selection-start-line="1191" selection-start-column="23" selection-end-line="1191" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="180" column="67" selection-start-line="180" selection-start-column="67" selection-end-line="180" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1249" column="39" selection-start-line="1249" selection-start-column="31" selection-end-line="1249" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1228">
+          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
